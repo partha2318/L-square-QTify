@@ -2,4 +2,4 @@
     "REWRITES": [
         { "SOURCE": "/(.*)", "DESTINATION": "/"}
         ]
-}git add
+}
